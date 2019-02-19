@@ -1,4 +1,4 @@
-First testing projects about feathers and vue technologies (vuex, vuetify, props and capture events).
+First testing projects about feathers and vue technologies (vuex, vuetify, components, props and capture events).
 For testing-sinavi project:
 Users: asd & qwer - Common Password: 456
 For feathers-authentication-chat:
